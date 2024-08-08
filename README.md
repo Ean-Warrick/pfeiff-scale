@@ -4,9 +4,9 @@
 The Pfeiff Scale is an android app made for college students to post reviews of their dining hall meals.
 
 ## Why use The Pfeiff Scale?
-College dining halls can be notrious for incorrect meal schedules and inconsistent food quality. 
+College dining halls can be notrious for inaccurate online menus and inconsistent food quality. 
 
-With The Pfeiff Scale, users will be able to log in and read reviews for their dining hall to see what the dining hall is offering and the quality of what they are serving on any given day.
+With The Pfeiff Scale, users will be able to log in and read reviews from fellow students for their dining hall to see what the dining hall is offering and the quality of what they are serving on any given day.
 
 ## Usage
 *Disclaimer: The app is currently not available for download.*
@@ -18,7 +18,7 @@ With The Pfeiff Scale, users will be able to log in and read reviews for their d
 ---
 
 ### Home Page
-- Once logged in, users will be directed to the home page where users can view other user's reviews
+- Once logged in, users will be directed to the home page where they can view others' reviews
   
 <img src="https://github.com/user-attachments/assets/71dcc51f-4e60-4f0b-9999-3c06e8d3b8d0" width="300" />
 
