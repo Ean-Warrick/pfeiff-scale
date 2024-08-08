@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959604203492",
+    "project_id": "dining-hall-review-app",
+    "storage_bucket": "dining-hall-review-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959604203492:android:add8b12ae1ce82e24e71f1",
+        "android_client_info": {
+          "package_name": "com.example.thepffeifscale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959604203492-h2ua6prs02ag69qccpfm6va6c1263q76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.class.dininghall",
+            "certificate_hash": "774197739e51425d80ebceccdeb86633f91e76ed"
+          }
+        },
+        {
+          "client_id": "959604203492-hmlaq8gg42ac399cpmlfmff8b13g18re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3-COpXtIdejq_n1VdRboh-lgyF4IgOCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959604203492-hmlaq8gg42ac399cpmlfmff8b13g18re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
